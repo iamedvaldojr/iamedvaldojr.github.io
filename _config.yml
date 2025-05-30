@@ -16,7 +16,7 @@ timezone: America/Sao_Paulo
 
 title: Edvaldo Jr # the main title
 
-tagline: Profissional de TI com experiência em infraestrutura, redes e suporte técnico, atuando na implantação, manutenção e monitoramento de servidores e serviços críticos. # it will display as the subtitle
+tagline: Profissional de TI com experiência em infraestrutura, redes e suporte técnico. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Profissional de TI com experiência em infraestrutura, redes e suporte técnico, atuando na implantação, manutenção e monitoramento de servidores e serviços críticos.
